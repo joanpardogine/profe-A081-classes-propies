@@ -1,4 +1,4 @@
-# A081 - Activitat 8: Classes pròpies
+# Activitat 8: **Classes pròpies**
 
 
 ## **Objectiu**
@@ -9,7 +9,7 @@ Per la realització d'aquesta activitat cal que feu una **proposta pròpia** per
 
 Per dur a terme aquesta activitat, heu de crear un **repositori** de **```git```** amb les següents característiques:
 
-**1.** amb el nom: **```<CognomAlumne>-A081-classes-propies```** (important respectar tant els guions com les majúscules o minúscules del nom del repositori.), us recordo que a on diu **```<CognomAlumne>```** vol dir que cal escriure el cognom de l'alumne, **sense el nom de l'alumne**.
+**1.** amb el nom: **```<CognomAlumne>-A08-classes-propies```** (important respectar tant els guions com les majúscules o minúscules del nom del repositori.), us recordo que a on diu **```<CognomAlumne>```** vol dir que cal escriure el cognom de l'alumne, **sense el nom de l'alumne**.
 
 **2.** que sigui **privat** i per últim,
 
