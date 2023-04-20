@@ -72,17 +72,21 @@ Com podeu observar la **Classe** **```Hospital```** de l'exemple té els següen
 > ## Associacions a **UML**
 > 
 > ## **```exactament un```**
-> ![UML-associacions-nomes-un.png](./img/UML-associacions-nomes-un.png)
-> 
+> <img src="./img/UML-associacions-nomes-un.png"  width="300px" height="auto">
+>
 > ## **```diversos```**
-> ![UML-associacions-nomes-un.png](./img/UML-associacions-diversos.png)
+> <img src="./img/UML-associacions-diversos.png"  width="300px" height="auto">
+> 
 > ## **```opcional```**
-> ![UML-associacions-opcional.png](./img/UML-associacions-nomes-un.png)
+> 
+> <img src="./img/UML-associacions-opcional.png"  width="300px" height="auto">
+
 > ## **```un o més```**
-> ![UML-associacions-un-o-mes.png](./img/UML-associacions-un-o-mes.png)
+> 
+> <img src="./img/UML-associacions-un-o-mes.png"  width="300px" height="auto">
 > 
 > ## **```zero o més```**
-> ![UML-associacions-zero-o-mes.png](./img/UML-associacions-zero-o-mes.png)
+> <img src="./img/UML-associacions-zero-o-mes.png"  width="300px" height="auto">
 <hr>
 
 
