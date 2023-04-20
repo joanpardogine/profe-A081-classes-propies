@@ -69,8 +69,8 @@ Com podeu observar la **Classe** **```Hospital```** de l'exemple té els següen
 
 <hr>
 
-> ## Associacions a **UML**
-> 
+> ## Cardinalitat a **UML**
+> La cardinalitat s'expressa en termes de:
 > ## **```exactament un```**
 > <img src="./img/UML-associacions-nomes-un.png"  width="300px" height="auto">
 >
