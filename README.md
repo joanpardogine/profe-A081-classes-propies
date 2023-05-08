@@ -118,3 +118,5 @@ Continuant amb l'exemple de l'**```Hospital```**:
 aquesta seria la definició final de la **classe** **```Persona```**.
 
 [Persona.java](https://github.com/joanpardogine/javaSolucions/blob/main/Persona.java)
+
+[Pacient.java](https://github.com/joanpardogine/javaSolucions/blob/main/Pacient.java)
