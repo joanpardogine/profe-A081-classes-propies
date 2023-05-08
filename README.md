@@ -27,11 +27,19 @@ Per dur a terme aquesta activitat, heu de crear un **repositori** de **```git```
 
 [**A083** - Activitat 8: **Classes pròpies** (**3a part**)](./README.md#a083---activitat-8-classes-pròpies-3a-part)
 
+[**A084** - Activitat 8: **Classes pròpies** (**4a part**)](./README.md#a084---activitat-8-classes-pròpies-4a-part)
+
 <br>
 <hr>
 <br>
 
 # A081 - Activitat 8: **Classes pròpies** (**1a part**)
+
+||Data|Hora|
+|----|:----:|:----:|
+|Data inicial|20/04/2023|15.00 h.|
+|Data final|23/04/2023|23.59 h.|
+|Data del tancament|23/04/2023|23.59 h.|
 
 ![classe-teoria.png](./img/classe-teoria.png)
 
@@ -97,3 +105,16 @@ En aquesta **tercera part**, cal que definiu la relació que té la ***nova*** *
 Una vegada més, continuant amb l'exemple de l'**```Hospital```**, aquesta seria la definició final del que us demano.
 
 ![UML-HOSPITAL-mes-filles.png.png](./img/UML-HOSPITAL-mes-filles_2.png)
+
+
+# A084 - Activitat 8: **Classes pròpies** (**4a part**) 
+
+En aquesta **quarta part**, cal que desenvolupeu en **```java```** la classe **```Persona```** i les dues ***Classes filles*** de la  ***Classe* ```Persona```** que vàreu definir a la [**A081** - Activitat 8: **Classes pròpies** (**1a part**)](./README.md#a081---activitat-8-classes-pròpies-1a-part).
+
+Continuant amb l'exemple de l'**```Hospital```**:
+
+![UML-HOSPITAL-mes-filles.png.png](./img/UML-HOSPITAL-mes-filles_2.png)
+
+aquesta seria la definició final de la **classe** **```Persona```**.
+
+[Persona.java](https://github.com/joanpardogine/javaSolucions/blob/main/Persona.java)
